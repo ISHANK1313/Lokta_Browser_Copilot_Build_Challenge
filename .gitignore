@@ -1,0 +1,21 @@
+# Internal process docs — NOT for GitHub
+archetecture.md
+PRD.md
+plan.md
+phases.md
+reference.md
+memory.md
+handover-prompt.md
+handover-reviwer.md
+handover-bugfixer.md
+
+# Challenge brief (contains the assignment itself)
+Lokta_Borrower_Copilot_Build_Challenge_v2.html
+
+# Dependencies & build output
+node_modules/
+dist/
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
